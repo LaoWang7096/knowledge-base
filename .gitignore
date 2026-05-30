@@ -1,0 +1,14 @@
+# Tool scripts - not needed for the website
+update_index.ps1
+daily_deploy.ps1
+generate_index.py
+optimize_all.py
+optimize_images.py
+fast_strip.py
+strip_result.txt
+strip_result2.txt
+deploy_log.txt
+.vercel/
+vercel.json
+
+__pycache__/
